@@ -1,4 +1,4 @@
-<h1 align="center"> PROYECTO INDIVIDUAL 2</h1>
+<h1 align="center"> PROYECTO INDIVIDUAL 2 🚀</h1>
 <h2 align="center"> DATA ANALYST </h2>
 <h4 align="center"> LEANDRO IBARRA </h4>
 
@@ -11,7 +11,8 @@ Hola! Cómo estan? En este repositorio se van a encontrar con el segundo proyect
 ![image](https://github.com/leaibarra/proyecto_2_lea/assets/126922100/e76f1eea-7af1-4b08-82e5-e6258838c26b)
 
 
-En esta ocacion nos encontramos con un proyecto sobre TELECOMUNICACIONES en la República Argentina. 
+En esta ocacion nos encontramos con un proyecto sobre TELECOMUNICACIONES en la República Argentina. 🌐
+
 Por nuestra parte (hipoteticamente) nos contrato la empresa de DirecTV.
 DirecTV es una empresa  proveedora de televisión via satelital, por otra parte tambien brinnda servicio de internet por medio de fibra optica.
 La razón por la cual fuimos contratados fue la necesidad por parte de la empresa en querer crecer en el interior del pais arrancando por mendoza.
