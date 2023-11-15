@@ -30,11 +30,13 @@ Argentina cuenta con cableado de fibra optica en una gran parte de su terrritori
 ![aaaaa (1)](https://github.com/leaibarra/proyecto_2_lea/assets/126922100/0939f849-956e-4523-b2c4-1c80f791dd69)
 ###### Grafico sacado de: https://www.argentina.gob.ar/jefatura/innovacion-publica/telecomunicaciones-y-conectividad/conectar/que-es-la-red-federal-de
 
-La intencion de DirecTV es obtener la mayor cantidad de clientes en Mendoza en donde las localidades que ya cuentan con fibra optica se hagan de sus servicios. 
+Argentina es un pais muy apasionado por el futbol, por lo tanto, en el año 2022 por causa del Mundial de futbol que se realizo en Qatar la poblacion argentina hizo inversiones comprando televisores y haciendose del servicio de DirecTV para poder ver los partidos. Pero solo contrataban la parte de television via satelite.
+
+La intencion de DirecTV es obtener la mayor cantidad de clientes en Mendoza en donde las localidades que ya cuentan con fibra optica y el servicio de DirecTV se hagan de los servicios de internet por fibra optica también. Obviamente tambien se quiere llegar a la gente que no posea ningun tipo de servicio de DirecTV.
 
 Tambien su idea es empezar a llegar a otras localidades de Mendoza donde todavia no tienen cobertura pero si cuantan con cableado de fibra optica.
 
-A largo plazo anhelan con; apenas se creen nuevos cableados de fibra optica en localidades donde no cuentan con ella obtener clientes de esa zona y asi empezar a crcer aun más.
+A largo plazo anhelan con; apenas se produzcan nuevos cableados de fibra optica en localidades donde no cuentan con ella, obtener clientes de esa zona y asi empezar a crcer aun más.
 
 
 ### Nuestro trabajo se centrara en realizar un trabajo de Data Analysis para ver que tan factible es crecer en la ciudad de Mendoza y mostrarles que caminos pueden tomar y los posibles resultados con los que se encontraran
