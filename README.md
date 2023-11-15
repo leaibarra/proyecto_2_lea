@@ -27,7 +27,7 @@ DirecTV cuenta con cobertura de internet en algunas localidades de:
 
 Argentina cuenta con cableado de fibra optica en una gran parte de su terrritorio, obviamente en ciudades con mas cantidad de habitantes.
 
-![image](https://github.com/leaibarra/proyecto_2_lea/assets/126922100/554a219d-28ea-4727-8059-e63a7429f408)
+![aaaaa (1)](https://github.com/leaibarra/proyecto_2_lea/assets/126922100/0939f849-956e-4523-b2c4-1c80f791dd69)
 ###### Grafico sacado de: https://www.argentina.gob.ar/jefatura/innovacion-publica/telecomunicaciones-y-conectividad/conectar/que-es-la-red-federal-de
 
 La intencion de DirecTV es obtener la mayor cantidad de clientes en Mendoza en donde las localidades que ya cuentan con fibra optica se hagan de sus servicios. 
@@ -38,4 +38,6 @@ A largo plazo anhelan con; apenas se creen nuevos cableados de fibra optica en l
 
 
 ### Nuestro trabajo se centrara en realizar un trabajo de Data Analysis para ver que tan factible es crecer en la ciudad de Mendoza y mostrarles que caminos pueden tomar y los posibles resultados con los que se encontraran
+
+
 
