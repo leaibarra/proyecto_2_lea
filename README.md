@@ -8,6 +8,7 @@ Hola! Cómo estan? En este repositorio se van a encontrar con el segundo proyect
 
 
 
+
 ![image](https://github.com/leaibarra/proyecto_2_lea/assets/126922100/e76f1eea-7af1-4b08-82e5-e6258838c26b)
 
 
@@ -31,7 +32,7 @@ DirecTV cuenta con cobertura de internet en algunas localidades de:
 Argentina cuenta con cableado de fibra optica en una gran parte de su terrritorio, obviamente en ciudades con mas cantidad de habitantes.
 
 ![aaaaa (1)](https://github.com/leaibarra/proyecto_2_lea/assets/126922100/0939f849-956e-4523-b2c4-1c80f791dd69)
-###### Grafico sacado de: https://www.argentina.gob.ar/jefatura/innovacion-publica/telecomunicaciones-y-conectividad/conectar/que-es-la-red-federal-de
+###### Grafico sacado de: [Gobierno de Argentina](https://www.argentina.gob.ar/jefatura/innovacion-publica/telecomunicaciones-y-conectividad/conectar/que-es-la-red-federal-de).
 
 Argentina es un pais muy apasionado por el futbol, por lo tanto, en el año 2022 por causa del Mundial de futbol que se realizo en Qatar la poblacion argentina hizo inversiones comprando televisores y haciendose del servicio de DirecTV para poder ver los partidos. Pero solo contrataban la parte de television via satelite.
 
