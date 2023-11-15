@@ -43,7 +43,7 @@ Tambien su idea es empezar a llegar a otras localidades de Mendoza donde todavia
 A largo plazo anhelan con; apenas se produzcan nuevos cableados de fibra optica en localidades donde no cuentan con ella, obtener clientes de esa zona y asi empezar a crcer aun más.
 
 
-### Nuestro trabajo se centrara en realizar un trabajo de Data Analysis para ver que tan factible es crecer en la ciudad de Mendoza y mostrarles que caminos pueden tomar y los posibles resultados con los que se encontraran
+### Nuestro trabajo se centrara en realizar un trabajo de Data Analysis y mostrarles los datoscon los que contamos para que ellos puedan ver que tan factible es crecer en la ciudad de Mendoza y ayudarles con las visualizaciones asi deciden que camino pueden tomar y los posibles resultados con los que se encontraran
 
 
 
