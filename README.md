@@ -15,7 +15,7 @@ Por nuestra parte (hipoteticamente) nos contrato la empresa de DirecTV.
 DirecTV es una empresa  proveedora de televisión via satelital, por otra parte tambien brinnda servicio de internet por medio de fibra optica.
 La razón por la cual fuimos contratados fue la necesidad por parte de la empresa en querer crecer en el interior del pais arrancando por mendoza.
 
-¿Por qué mendoza?
+### ¿Por qué mendoza?
 
 DirecTV cuenta con cobertura de internet en algunas localidades de: 
 
