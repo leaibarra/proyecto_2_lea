@@ -54,7 +54,6 @@ Nuestro trabajo se centrara en realizar un trabajo de Data Analysis y mostrarles
 
 ## `KPIs que utilizaremos:`
 
-Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. La fórmula es la siguiente:
 
 + **Accesos:** Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. La fórmula es la siguiente:
 
