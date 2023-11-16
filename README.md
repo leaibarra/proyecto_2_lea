@@ -45,6 +45,7 @@ DirecTV cuenta con cobertura de internet en algunas localidades de:
 Para ser mas exactos las localidades de Mendoza que tienen cobertura son: Godoy Cruz, Guaymallén, Las Heras y Luján de Cuyo.
 
 ###### La información sobre la provincia de Mendoza fue sacada directamente hablando con operadores de la empresa de DirecTV.
+###### También fue sacada de [Selectra](https://selectra.com.ar/empresas/directv/internet#cobertura-internet-dtv) la información.
 
 Argentina cuenta con cableado de fibra óptica en una gran parte de su terrritorio, obviamente en ciudades con más cantidad de habitantes.
 
