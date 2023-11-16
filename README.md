@@ -1,10 +1,10 @@
-<h1 align="center"> PROYECTO INDIVIDUAL 2 🚀</h1>
-<h2 align="center"> DATA ANALYST </h2>
-<h4 align="center"> LEANDRO IBARRA </h4>
+# <h1 align="center">**`PROYECTO INDIVIDUAL 2 🚀`**</h1>
+# <h2 align="center"> **`DATA ANALYST`** </h2>
+# <h4 align="center"> **`LEANDRO IBARRA`** </h4>
 
 Hola! Cómo estan? En este repositorio se van a encontrar con el segundo proyecto individual de la carrera Data Science de Soy Henry. Espero que lo disfruten!!!
 
-### INDICE:
+### `INDICE:`
 
 
 <p align="center">
@@ -15,13 +15,13 @@ Hola! Cómo estan? En este repositorio se van a encontrar con el segundo proyect
 
 
 
-En esta ocacion nos encontramos con un proyecto sobre TELECOMUNICACIONES en la República Argentina. 🌐
+En esta ocación nos encontramos con un proyecto sobre TELECOMUNICACIONES en la República Argentina. 🌐
 
 Por nuestra parte (hipoteticamente) nos contrato la empresa de DirecTV.
-DirecTV es una empresa  proveedora de televisión via satelital, por otra parte tambien brinnda servicio de internet por medio de fibra optica.
+DirecTV es una empresa  proveedora de televisión via satelital, por otra parte tambien brinda servicio de internet por medio de fibra optica.
 La razón por la cual fuimos contratados fue la necesidad por parte de la empresa en querer crecer en el interior del pais arrancando por mendoza.
 
-### ¿Por qué mendoza?
+### `¿Por qué mendoza?`
 
 DirecTV cuenta con cobertura de internet en algunas localidades de: 
 
@@ -48,8 +48,20 @@ Tambien su idea es empezar a llegar a otras localidades de Mendoza donde todavia
 
 A largo plazo anhelan con; apenas se produzcan nuevos cableados de fibra optica en localidades donde no cuentan con ella, obtener clientes de esa zona y asi empezar a crcer aun más.
 
+## `¿Cuál es nuestro trabajo?`
 
-### Nuestro trabajo se centrara en realizar un trabajo de Data Analysis y mostrarles los datoscon los que contamos para que ellos puedan ver que tan factible es crecer en la ciudad de Mendoza y ayudarles con las visualizaciones asi deciden que camino pueden tomar y los posibles resultados con los que se encontraran
+Nuestro trabajo se centrara en realizar un trabajo de Data Analysis y mostrarles los datos con los que contamos, para que ellos puedan ver que tan factible es crecer en la ciudad de Mendoza y ayudarles con las visualizaciones asi deciden que camino pueden tomar y los posibles resultados con los que se encontraran.
+
+## `KPIs que utilizaremos:`
+
+Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. La fórmula es la siguiente:
+
++ **Accesos:** Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. La fórmula es la siguiente:
+
+    *Kpi acceso*= [( internet cada 100 hogares proximo - internet cada 100 hogares actual ) / internet cada 100 hogares actual ] * 100
+
+
+
 
 
 
