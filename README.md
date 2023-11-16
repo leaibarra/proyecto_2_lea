@@ -6,6 +6,8 @@ Hola! Cómo estan? En este repositorio se van a encontrar con el segundo proyect
 
 ### `INDICE:`
 
++ *Data PowerBI:* Esta carpeta continen los Dataframes limpios listos para utilizar en PowerBI
+
 + *Datasets:* Contiene los datos nacionales que utilizamos y analizamos.
 
 + *EDA y ETL adicional:* En esta carpeta se encuentran los archivos que fueron visualizados y tranformados pero que no fueron tenidos en cuenta por distintos motivos paara el desarrollo del proyecto.
