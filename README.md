@@ -2,7 +2,7 @@
 # <h2 align="center"> **`DATA ANALYST`** </h2>
 # <h4 align="center"> **`LEANDRO IBARRA`** </h4>
 
-Hola! Cómo estan? En este repositorio se van a encontrar con el segundo proyecto individual de la carrera Data Science de Soy Henry. Espero que lo disfruten!!!
+Hola! Cómo estan? En este repositorio se van a encontrar con el segundo proyecto individual de la carrera Data Science de Soy Henry. Espero que lo disfruten!!!😁
 
 ### `INDICE:`
 
