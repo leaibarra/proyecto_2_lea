@@ -16,7 +16,7 @@ Hola! Cómo estan? En este repositorio se van a encontrar con el segundo proyect
 
 ### `TEMA:`
 
-En esta ocasión nos encontramos con un proyecto sobre TELECOMUNICACIONES en la República Argentina. 🌐
+En esta ocasión nos encontramos con un proyecto sobre `TELECOMUNICACIONES` en la República Argentina. 🌐
 
 
 <p align="center">
