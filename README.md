@@ -8,7 +8,7 @@ Hola! Cómo estan? En este repositorio se van a encontrar con el segundo proyect
 
 + *Datasets:* Contiene los datos nacionales que utilizamos y analizamos
 
-+ *EDA y ETL adicional:* En esta carpeta se encuentran los archivos que fueron visualizados y tranformados pero que no fueron tenidos en cuenta por distintos motivos paara el desarrollo del proyecto
++ *EDA y ETL adicional:* En esta carpeta se encuentran los archivos que fueron visualizados y tranformados pero que no fueron tenidos en cuenta por distintos motivos paara el desarrollo del proyecto.
 
 + *EDA_y_ETL.ipynb:* Este archivo posee los datos que si se van a usar en el proyecto. En él obviamente estan las visualizaciones y el proceso de transformación que le realizamos. Cuenta con muchos graficos explicados para su mejor comprensión.
 
