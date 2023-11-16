@@ -61,6 +61,12 @@ A largo plazo, anhelan con obtener clientes de esa zona; apenas se produzcan nue
 
 Nuestro proyecto se centrara en realizar un trabajo de Data Analyst y mostrarles los datos con los que contamos, para que ellos puedan ver que tan factible es crecer en la ciudad de Mendoza y ayudarles con las visualizaciones así deciden que camino pueden tomar y los posibles resultados con los que se encontraran.
 
+Para poder llevarlo a cabo realizamos la carga de los [datos](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) sobre internet que sacamos de la página oficial del gobierno.
+
+Luego avanzamos con el EDA y ETL convirtiendo los Datasets en Dataframes y utilizamos notebooks de Python (en Visual Studio Code). Después con la ayuda de librerias como pandas, matplotlib y seaborn lo hicimos posible. 
+
+Luego de eso tranformamos los Dataframes en archivos csv para poder abrirlos en PowerBi asi creamos un Dashboard muy interactivo y con una eleccion de graficos coherentes, que contiene filtros permitiendo explorar detalladamente los datos. Ahi incluimos los Kpis que vamos a utilizar.
+
 ## `KPIs que utilizaremos:`
 
 
