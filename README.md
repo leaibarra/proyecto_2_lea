@@ -60,6 +60,14 @@ Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, 
 
     *Kpi acceso*= [( internet cada 100 hogares proximo - internet cada 100 hogares actual ) / internet cada 100 hogares actual ] * 100
 
++ **Penetración del Mercado:** Calcular la proporción de partidos que ya tienen acceso al servicio de internet de fibra optica en comparación con el total de partidos que hay. La fórmula sería:
+  
+  *Kpi Penetración del Mercado* = (partidos con acceso a fibra optica / Total de partidos) * 100
+
++ **Accesos de Fibra Óptica:** Calcular el porcentaje de Accesos de Fibra Óptica en comparación con el periodo anterior. La fórmula seria:
+  *Kpi Accesos de Fibra Óptica* = [(Accesos de Fibra Óptica proximo - Accesos de Fibra Óptica actual) / Accesos de Fibra Óptica actual] * 100
+
+
 
 
 
