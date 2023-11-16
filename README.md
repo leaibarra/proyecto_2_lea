@@ -25,8 +25,7 @@ En esta ocasión nos encontramos con un proyecto sobre TELECOMUNICACIONES en la 
 
 
 
-
-Por nuestra parte (hipoteticamente) nos contrato la empresa de DirecTV.
+Por nuestra parte (hipoteticamente) nos contrato la empresa de:  <img src="https://github.com/leaibarra/proyecto_2_lea/assets/126922100/3ccd8a7b-860c-4259-9636-e1f47f86eef8" width="100"> 
 
 DirecTV es una empresa  proveedora de televisión vía satelital, por otra parte también brinda servicio de internet por medio de fibra óptica.
 La razón por la cual fuimos contratados fue la necesidad por parte de la empresa en querer crecer en el interior del país arrancando por Mendoza.
