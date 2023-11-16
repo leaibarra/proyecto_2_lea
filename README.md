@@ -6,6 +6,12 @@ Hola! Cómo estan? En este repositorio se van a encontrar con el segundo proyect
 
 ### `INDICE:`
 
++ *Datasets:* Contiene los datos nacionales que utilizamos y analizamos
+
++ *EDA y ETL adicional:* En esta carpeta se encuentran los archivos que fueron visualizados y tranformados pero que no fueron tenidos en cuenta por distintos motivos paara el desarrollo del proyecto
+
++ *EDA_y_ETL.ipynb:* Este archivo posee los datos que si se van a usar en el proyecto. En él obviamente estan las visualizaciones y el proceso de transformación que le realizamos. Cuenta con muchos graficos explicados para su mejor comprensión.
+
 
 <p align="center">
   <img width="300" height="180" src="https://github.com/leaibarra/proyecto_2_lea/assets/126922100/e76f1eea-7af1-4b08-82e5-e6258838c26b">
