@@ -34,11 +34,11 @@ La razón por la cual fuimos contratados fue la necesidad por parte de la empres
 
 DirecTV cuenta con cobertura de internet en algunas localidades de: 
 
--Provincia de Buenos Aires
++ Provincia de Buenos Aires
 
--CABA
++ CABA
 
--Provincia de Mendoza ( aquÍ desde hace aproximadamente 10 años se incorporó en brindar servicios de internet por fibra óptica) 
++ Provincia de Mendoza ( aquÍ desde hace aproximadamente 10 años se incorporó en brindar servicios de internet por fibra óptica) 
 
 Para ser mas exactos las localidades de Mendoza que tienen cobertura son: Godoy Cruz, Guaymallén, Las Heras y Luján de Cuyo.
 
